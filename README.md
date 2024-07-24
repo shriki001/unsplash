@@ -4,6 +4,7 @@
 docker-compose up -d --build
 ```
 
+Note: need to add unsplush key to .env file
 API calls can be made to the following endpoints:
 
 # Orders API
